@@ -1,0 +1,9 @@
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/bin/Debug/netcoreapp3.1/CoinMarket.Infrastructure.deps.json
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/bin/Debug/netcoreapp3.1/CoinMarket.Infrastructure.dll
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/bin/Debug/netcoreapp3.1/CoinMarket.Infrastructure.pdb
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/obj/Debug/netcoreapp3.1/CoinMarket.Infrastructure.csproj.AssemblyReference.cache
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/obj/Debug/netcoreapp3.1/CoinMarket.Infrastructure.AssemblyInfoInputs.cache
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/obj/Debug/netcoreapp3.1/CoinMarket.Infrastructure.AssemblyInfo.cs
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/obj/Debug/netcoreapp3.1/CoinMarket.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/obj/Debug/netcoreapp3.1/CoinMarket.Infrastructure.dll
+/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/obj/Debug/netcoreapp3.1/CoinMarket.Infrastructure.pdb

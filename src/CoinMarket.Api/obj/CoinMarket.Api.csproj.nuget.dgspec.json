@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/murat/Documents/x/private/par/src/CoinMarket.Api/CoinMarket.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/murat/Documents/x/private/par/src/CoinMarket.Api/CoinMarket.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/murat/Documents/x/private/par/src/CoinMarket.Api/CoinMarket.Api.csproj",
+        "projectName": "CoinMarket.Api",
+        "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Api/CoinMarket.Api.csproj",
+        "packagesPath": "/Users/murat/.nuget/packages/",
+        "outputPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/murat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/murat/Documents/x/private/par/src/CoinMarket.Data/CoinMarket.Data.csproj": {
+                "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Data/CoinMarket.Data.csproj"
+              },
+              "/Users/murat/Documents/x/private/par/src/CoinMarket.Service/CoinMarket.Service.csproj": {
+                "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Service/CoinMarket.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-rc.2.21480.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/murat/Documents/x/private/par/src/CoinMarket.Data/CoinMarket.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/murat/Documents/x/private/par/src/CoinMarket.Data/CoinMarket.Data.csproj",
+        "projectName": "CoinMarket.Data",
+        "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Data/CoinMarket.Data.csproj",
+        "packagesPath": "/Users/murat/.nuget/packages/",
+        "outputPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/murat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/CoinMarket.Infrastructure.csproj": {
+                "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/CoinMarket.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/CoinMarket.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/CoinMarket.Infrastructure.csproj",
+        "projectName": "CoinMarket.Infrastructure",
+        "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/CoinMarket.Infrastructure.csproj",
+        "packagesPath": "/Users/murat/.nuget/packages/",
+        "outputPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/murat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/murat/Documents/x/private/par/src/CoinMarket.Service/CoinMarket.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/murat/Documents/x/private/par/src/CoinMarket.Service/CoinMarket.Service.csproj",
+        "projectName": "CoinMarket.Service",
+        "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Service/CoinMarket.Service.csproj",
+        "packagesPath": "/Users/murat/.nuget/packages/",
+        "outputPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/murat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/CoinMarket.Infrastructure.csproj": {
+                "projectPath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Infrastructure/CoinMarket.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEhGwLMqw9hRJpJGhbSx8DLJarJ0gLVF/0oKPhufDvo6Iiee1zbmilTBAEdWMSkHXKJQjncUq85t5/6vJJbaHQ==",
+  "success": true,
+  "projectFilePath": "/Users/murat/Documents/x/private/par/src/CoinMarket.Service/CoinMarket.Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/murat/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.1/microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512",
+    "/Users/murat/.nuget/packages/microsoft.extensions.options/3.1.1/microsoft.extensions.options.3.1.1.nupkg.sha512",
+    "/Users/murat/.nuget/packages/microsoft.extensions.primitives/3.1.1/microsoft.extensions.primitives.3.1.1.nupkg.sha512",
+    "/Users/murat/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

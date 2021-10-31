@@ -1,0 +1,12 @@
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/bin/Debug/netcoreapp3.1/CoinMarket.Data.deps.json
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/bin/Debug/netcoreapp3.1/CoinMarket.Data.dll
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/bin/Debug/netcoreapp3.1/CoinMarket.Data.pdb
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/bin/Debug/netcoreapp3.1/CoinMarket.Infrastructure.dll
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/bin/Debug/netcoreapp3.1/CoinMarket.Infrastructure.pdb
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/Debug/netcoreapp3.1/CoinMarket.Data.csproj.AssemblyReference.cache
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/Debug/netcoreapp3.1/CoinMarket.Data.AssemblyInfoInputs.cache
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/Debug/netcoreapp3.1/CoinMarket.Data.AssemblyInfo.cs
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/Debug/netcoreapp3.1/CoinMarket.Data.csproj.CoreCompileInputs.cache
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/Debug/netcoreapp3.1/CoinMarket.Data.csproj.CopyComplete
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/Debug/netcoreapp3.1/CoinMarket.Data.dll
+/Users/murat/Documents/x/private/par/src/CoinMarket.Data/obj/Debug/netcoreapp3.1/CoinMarket.Data.pdb

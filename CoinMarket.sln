@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A4EFB0E9-5F01-4A5D-9774-B2EA8A42B8AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2FE501F9-97E2-4496-8F3D-4D4B82CA4A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarket.Infrastructure", "src\CoinMarket.Infrastructure\CoinMarket.Infrastructure.csproj", "{FE983A35-ECEA-499A-99BC-3525DA3BF9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarket.Data", "src\CoinMarket.Data\CoinMarket.Data.csproj", "{7033FEB2-CB49-4750-893F-4ED6298D320D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarket.Service", "src\CoinMarket.Service\CoinMarket.Service.csproj", "{DCBA6774-ED01-4931-945F-AB46427BAFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarket.Api", "src\CoinMarket.Api\CoinMarket.Api.csproj", "{5EA29416-306D-45FA-934D-C1618F5E2240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE983A35-ECEA-499A-99BC-3525DA3BF9B9} = {A4EFB0E9-5F01-4A5D-9774-B2EA8A42B8AC}
+		{7033FEB2-CB49-4750-893F-4ED6298D320D} = {A4EFB0E9-5F01-4A5D-9774-B2EA8A42B8AC}
+		{DCBA6774-ED01-4931-945F-AB46427BAFDA} = {A4EFB0E9-5F01-4A5D-9774-B2EA8A42B8AC}
+		{5EA29416-306D-45FA-934D-C1618F5E2240} = {A4EFB0E9-5F01-4A5D-9774-B2EA8A42B8AC}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE983A35-ECEA-499A-99BC-3525DA3BF9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE983A35-ECEA-499A-99BC-3525DA3BF9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE983A35-ECEA-499A-99BC-3525DA3BF9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE983A35-ECEA-499A-99BC-3525DA3BF9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7033FEB2-CB49-4750-893F-4ED6298D320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7033FEB2-CB49-4750-893F-4ED6298D320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7033FEB2-CB49-4750-893F-4ED6298D320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7033FEB2-CB49-4750-893F-4ED6298D320D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBA6774-ED01-4931-945F-AB46427BAFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBA6774-ED01-4931-945F-AB46427BAFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBA6774-ED01-4931-945F-AB46427BAFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBA6774-ED01-4931-945F-AB46427BAFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA29416-306D-45FA-934D-C1618F5E2240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA29416-306D-45FA-934D-C1618F5E2240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA29416-306D-45FA-934D-C1618F5E2240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA29416-306D-45FA-934D-C1618F5E2240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
