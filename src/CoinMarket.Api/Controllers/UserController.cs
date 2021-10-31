@@ -5,6 +5,7 @@ using CoinMarket.Api.Static;
 using CoinMarket.Data.Context;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 namespace CoinMarket.Api.Controllers
@@ -13,11 +14,13 @@ namespace CoinMarket.Api.Controllers
     [ApiController]
     public class UserController : BaseController
     {
+        private ILogger<UserController> _logger;
         private UserDbContext _context;
         private readonly IOptions<AppSettings> _appSettings;
 
-        public UserController(UserDbContext context, IOptions<AppSettings> appSettings)
+        public UserController(UserDbContext context, IOptions<AppSettings> appSettings, ILogger<UserController> logger)
         {
+            _logger = logger;
             _appSettings = appSettings;
             _context = context;
         }
@@ -33,6 +36,7 @@ namespace CoinMarket.Api.Controllers
                 var token = Token.GenerateJwtToken(user, _appSettings.Value.Secret);
                 return Ok(token);
             }
+            _logger.LogError("Girdiğiniz bilgiler kayıtlarımızla eşleşmemektedir");
             return NotFound();
         }
     }

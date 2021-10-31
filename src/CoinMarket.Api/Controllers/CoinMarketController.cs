@@ -1,6 +1,4 @@
-using System.Collections.Generic;
 using System.Threading.Tasks;
-using CoinMarker.Infrastructure.Model;
 using CoinMarker.Infrastructure.Request;
 using CoinMarker.Infrastructure.Response;
 using CoinMarket.Service.Service.Define;
@@ -20,7 +18,7 @@ namespace CoinMarket.Api.Controllers
         }
         
         [HttpGet("getCoin")]
-        public async Task<CoinmarketcapItemData> GetAllUsersByTypeAsync([FromQuery]GetCoinRequest request)
+        public async Task<CoinmarketcapItemData> GetCoinsAsync([FromQuery]GetCoinRequest request)
         {
             return await _coinService.GetCoinsAsync(request);
         }

@@ -1,17 +1,13 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using CoinMarker.Infrastructure.Helper;
 using CoinMarker.Infrastructure.Settings;
 using CoinMarket.Api.Extension;
+using CoinMarket.Api.Logger;
 using CoinMarket.Data.Context;
 using CoinMarket.Service.Service;
 using CoinMarket.Service.Service.Define;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -25,8 +21,10 @@ namespace CoinMarket.Api
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Microsoft.AspNetCore.Hosting.IHostingEnvironment _hostingEnvironment { get; set; }
+        public Startup(IConfiguration configuration, Microsoft.AspNetCore.Hosting.IHostingEnvironment hostingEnvironment )
         {
+            _hostingEnvironment = hostingEnvironment;
             Configuration = configuration;
         }
 
@@ -49,6 +47,7 @@ namespace CoinMarket.Api
                 options.SerializerSettings.Converters.Add(new StringEnumConverter(new CamelCaseNamingStrategy()));
             });
 
+            
             var configSection = Configuration.GetSection("AppSettings");
             var settings = new AppSettings();
             configSection.Bind(settings);
@@ -76,21 +75,23 @@ namespace CoinMarket.Api
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
+            loggerFactory.AddProvider(new LoggerProvider(_hostingEnvironment));
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CoinMarket.Api v1"));
             }
-
             app.UseHttpsRedirection();
-            
             app.UseMiddleware<JWTMiddleware>();
-
             app.UseRouting();
-
+            app.UseCors(x => x
+                .WithOrigins("http://localhost:8080/")
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
             app.UseAuthorization();
             app.UseAuthentication();
             

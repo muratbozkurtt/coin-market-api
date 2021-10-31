@@ -1,6 +1,5 @@
 using System.Linq;
 using System.Threading.Tasks;
-using CoinMarket.Api.Static;
 using Microsoft.AspNetCore.Http;
 
 namespace CoinMarket.Api.Extension{
