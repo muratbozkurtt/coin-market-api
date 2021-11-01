@@ -1,0 +1,214 @@
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 0 | Event Name :  | Formatter : BadHttpRequestException
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Critical | Event ID : 0 | Event Name :  | Formatter : Unable to start Kestrel.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 0 | Event Name :  | Formatter : BadHttpRequestException
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 0 | Event Name :  | Formatter : BadHttpRequestException
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 0 | Event Name :  | Formatter : BadHttpRequestException
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 3 | Event Name : FailedToDeterminePort | Formatter : Failed to determine the https port for redirect.
+Log Level : Warning | Event ID : 0 | Event Name :  | Formatter : BadHttpRequestException
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Warning | Event ID : 0 | Event Name :  | Formatter : BadHttpRequestException
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Girdiğiniz bilgiler kayıtlarımızla eşleşmemektedir
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application is shutting down...
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Now listening on: http://localhost:5090
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: /Users/murat/Documents/x/private/par/src/CoinMarket.Api
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Girdiğiniz bilgiler kayıtlarımızla eşleşmemektedir
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Get coin processing was successfully
